@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "elliotboney/freshdesk-php-sdk": "dev-master",
+        " mpclarkson/freshdesk-php-sdk": "dev-master",
         "illuminate/support": "~5.1"
     },
     "require-dev": {
